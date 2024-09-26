@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for visiting CySols!
 
-Template Name: Selecao
-Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Company Name: CySols (Cybersecurity Solutions)
+URL: https://cysols.github.io/cySols/
+
